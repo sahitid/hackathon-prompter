@@ -1,6 +1,6 @@
-# Epoch Prompter
+# Hackathon Prompter
 
-🤪 A **static** Next.js site to choose a prompt for Epoch!
+🎲 A **static** Next.js site to choose a prompt for a hackathon!
 
 ## Usage
 
